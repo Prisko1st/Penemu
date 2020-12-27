@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:org="http://www.penemu.fake/#">
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Albert_Einstein">
+	 <org:nama>Albert Einstein</org:nama>
+	 <org:asal>Jerman</org:asal>
+	 <org:penemuan>Teori relativitas</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Alessandro_Volta">
+	 <org:nama>Alessandro Volta</org:nama>
+	 <org:asal>Italia</org:asal>
+	 <org:penemuan>Batu baterai</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Alfred_Nobel">
+	 <org:nama>Alfred Nobel</org:nama>
+	 <org:asal>Swedia</org:asal>
+	 <org:penemuan>Dinamit</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Felix_Hoffmann">
+	 <org:nama>Felix Hoffmann</org:nama>
+	 <org:asal>Jerman</org:asal>
+	 <org:penemuan>Aspirin</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Isaac_Newton">
+	 <org:nama>Isaac Newton</org:nama>
+	 <org:asal>Inggris</org:asal>
+	 <org:penemuan>Hukum gravitasi</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Johannes_Gutenberg">
+	 <org:nama>Johannes Gutenberg</org:nama>
+	 <org:asal>Jerman</org:asal>
+	 <org:penemuan>Mesin cetak</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Murdocks">
+	 <org:nama>Murdocks</org:nama>
+	 <org:asal>Inggris</org:asal>
+	 <org:penemuan>Kereta api</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Konrad_Zuse">
+	 <org:nama>Konrad Zuse</org:nama>
+	 <org:asal>Jerman</org:asal>
+	 <org:penemuan>Komputer</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Thomas_Alva_Edison">
+	 <org:nama>Thomas Alva Edison</org:nama>
+	 <org:asal>Amerika Serikat</org:asal>
+	 <org:penemuan>Lampu Listrik</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/B.J._Habibie">
+	 <org:nama>B.J. Habibie</org:nama>
+	 <org:asal>Indonesia</org:asal>
+	 <org:penemuan>Crack Propagation Theory</org:penemuan>
+	</rdf:Description>
+</rdf:RDF>
